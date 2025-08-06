@@ -34,9 +34,7 @@ This repo is a collection of my solved problems while learning and practicing DS
 
 ## 💻 Language Used
 
-- C++ (Primary)
-
-> Planning to expand with Java/Python in the future.
+- Java (Primary)
 
 ---
 
